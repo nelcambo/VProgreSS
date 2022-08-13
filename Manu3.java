@@ -1,0 +1,2 @@
+public class Manu3 {
+}
